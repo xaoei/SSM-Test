@@ -1,3 +1,4 @@
+--Sql for SMM-Test
 --create TABLE on Oracle:
 CREATE TABLE T_EMP(	
   "ID" NUMBER(8,0) PRIMARY KEY, 
